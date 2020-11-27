@@ -1,0 +1,4 @@
+#Sat Sep 01 00:50:08 IST 2018
+base.0=D\:\\internshala\\Echo\\Echo\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
