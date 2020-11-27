@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 27 12:54:18 IST 2020
+0.baseType=DIRECTORY
+0.base=F\:\\internshala\\Echo\\Echo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
