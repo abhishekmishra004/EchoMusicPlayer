@@ -1,178 +1,178 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d8feab2e623ea8e988255b59dedf6041\AndroidManifest.xml:2:1-11:12
-MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\3a89bfc78508cc138a97fedaa6638b84\AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:design:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ea2a4cd23b7e8d9d89f346c6717af4a7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5d08ebbe700605680f8751bbaf442e02\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cfaa0f879230e69fdf8e3a77348731cc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b562846bcc07d1d27ef51a8d73f7eea9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4db91dc975266cc47e363629869f4665\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\43866ffb4e6be8b4ea5819781002ab87\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1b0109a5c79ad2f23f53c885f9f2722b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e7ecbf84015b721692faaf01be808ca\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fba0231948121076e55f3dcfb201e8eb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4780fddfd9e0cee313804da4ddc50957\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8a1bae13bb471f0d6ae39f72a2b85fb2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e5a57dba6f77c870f7fb489db436c2ad\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d27ea6c9416ad0bf0e4e9e4188f46fd3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c5caa8ad4e4ecda45c80ae49d4fbe233\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\98f59b5cce4683e336728abfd2a5d4d3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\60c720843084653e2cac246955b15d39\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\276c0c53a1291dc78667fe8aa06a7c44\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f091008e5d92dac469bf612e24b64404\AndroidManifest.xml:2:1-11:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\08805dbc34ea9d657d933777d8600ae9\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\03b2065bb0280720e0c3570cb7146fc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1bc8fdd0e14580ab697b669d98b9cb4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a6474fc29b3646125e7d5ffbe57dda7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6eae7e9c9248d8cb5fe53b32318f8764\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\034032fa69d4ea8f487e8d306d0d2959\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4583ffc67d8de8b50a914e36cee542c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\078640c57c3fed308d1b7d2c6a6a1918\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a7b196ecf6788031abdec9459ddc7934\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0bf6b2421bedb42c4ea9e94f9ee547b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\61abc7d77f3e2e0624f022abe0399a9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a3d72c2e5b38c237e2987a7c9db44795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\00ec2159bc20c962348a9aa35bc96274\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\359fb607b04cac28f84e2aa316f1e2e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\353883a4d84d60b00f20af17ad075420\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\826df14765c5c11ff1f91bea44138220\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0c8b44b8e91591bfd8e3bbb7b7f89af6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0204af0089d826c2eb473b6ba0e650ad\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:2:11-69
 uses-feature#0x00020000
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:5:5-7:35
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:5:5-7:35
 	android:glEsVersion
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:6:9-41
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:6:9-41
 	android:required
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:7:9-32
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:7:9-32
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:9:5-80
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:9:22-77
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:9:22-77
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:10:5-71
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:10:5-71
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:10:22-68
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:10:22-68
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:11:5-80
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:11:22-77
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:11:22-77
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:12:5-75
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:12:5-75
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:12:22-72
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:12:22-72
 uses-permission#android.permission.PROCESS_OUTGOING_CALLS
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:13:5-81
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:13:22-78
 application
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:15:5-45:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d8feab2e623ea8e988255b59dedf6041\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d8feab2e623ea8e988255b59dedf6041\AndroidManifest.xml:9:5-20
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f091008e5d92dac469bf612e24b64404\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f091008e5d92dac469bf612e24b64404\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:18:9-41
 	android:roundIcon
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:19:9-48
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:19:9-48
 	android:icon
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:21:9-40
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:21:9-40
 activity#internshala.com.echomusik.activties.SplashActivty
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:22:9-32:20
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:22:9-32:20
 	android:screenOrientation
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:25:13-49
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:25:13-49
 	android:label
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:24:13-45
 	android:theme
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:26:13-56
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:26:13-56
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:23:13-52
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:23:13-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:30:27-74
 activity#internshala.com.echomusik.activties.MainActivity
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:33:9-36:59
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:33:9-36:59
 	android:screenOrientation
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:35:13-49
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:35:13-49
 	android:theme
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:36:13-56
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:36:13-56
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:34:13-51
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:34:13-51
 receiver#internshala.com.echomusik.utils.CaptureBroadcast
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:38:9-43:20
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:38:9-43:20
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:38:19-57
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:38:19-57
 intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL+action:name:android.intent.action.PHONE_STATE
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:39:13-42:29
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:39:13-42:29
 action#android.intent.action.PHONE_STATE
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:40:17-76
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:40:17-76
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:40:25-73
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:40:25-73
 action#android.intent.action.NEW_OUTGOING_CALL
-ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:41:17-82
+ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:41:17-82
 	android:name
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:41:25-79
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml:41:25-79
 uses-sdk
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d8feab2e623ea8e988255b59dedf6041\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d8feab2e623ea8e988255b59dedf6041\AndroidManifest.xml:5:5-7:41
-MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\3a89bfc78508cc138a97fedaa6638b84\AndroidManifest.xml:8:5-10:41
-MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\3a89bfc78508cc138a97fedaa6638b84\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:design:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ea2a4cd23b7e8d9d89f346c6717af4a7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ea2a4cd23b7e8d9d89f346c6717af4a7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5d08ebbe700605680f8751bbaf442e02\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5d08ebbe700605680f8751bbaf442e02\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cfaa0f879230e69fdf8e3a77348731cc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\cfaa0f879230e69fdf8e3a77348731cc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b562846bcc07d1d27ef51a8d73f7eea9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b562846bcc07d1d27ef51a8d73f7eea9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4db91dc975266cc47e363629869f4665\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4db91dc975266cc47e363629869f4665\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\43866ffb4e6be8b4ea5819781002ab87\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\43866ffb4e6be8b4ea5819781002ab87\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1b0109a5c79ad2f23f53c885f9f2722b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1b0109a5c79ad2f23f53c885f9f2722b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e7ecbf84015b721692faaf01be808ca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e7ecbf84015b721692faaf01be808ca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fba0231948121076e55f3dcfb201e8eb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fba0231948121076e55f3dcfb201e8eb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4780fddfd9e0cee313804da4ddc50957\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4780fddfd9e0cee313804da4ddc50957\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8a1bae13bb471f0d6ae39f72a2b85fb2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8a1bae13bb471f0d6ae39f72a2b85fb2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e5a57dba6f77c870f7fb489db436c2ad\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e5a57dba6f77c870f7fb489db436c2ad\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d27ea6c9416ad0bf0e4e9e4188f46fd3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d27ea6c9416ad0bf0e4e9e4188f46fd3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c5caa8ad4e4ecda45c80ae49d4fbe233\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c5caa8ad4e4ecda45c80ae49d4fbe233\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\98f59b5cce4683e336728abfd2a5d4d3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\98f59b5cce4683e336728abfd2a5d4d3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\60c720843084653e2cac246955b15d39\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\60c720843084653e2cac246955b15d39\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\276c0c53a1291dc78667fe8aa06a7c44\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhisekh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\276c0c53a1291dc78667fe8aa06a7c44\AndroidManifest.xml:20:5-44
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f091008e5d92dac469bf612e24b64404\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f091008e5d92dac469bf612e24b64404\AndroidManifest.xml:5:5-7:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\08805dbc34ea9d657d933777d8600ae9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\audiovisualization-1.0.0.aar\08805dbc34ea9d657d933777d8600ae9\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\03b2065bb0280720e0c3570cb7146fc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\03b2065bb0280720e0c3570cb7146fc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1bc8fdd0e14580ab697b669d98b9cb4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1bc8fdd0e14580ab697b669d98b9cb4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a6474fc29b3646125e7d5ffbe57dda7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a6474fc29b3646125e7d5ffbe57dda7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6eae7e9c9248d8cb5fe53b32318f8764\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6eae7e9c9248d8cb5fe53b32318f8764\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\034032fa69d4ea8f487e8d306d0d2959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\034032fa69d4ea8f487e8d306d0d2959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4583ffc67d8de8b50a914e36cee542c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4583ffc67d8de8b50a914e36cee542c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\078640c57c3fed308d1b7d2c6a6a1918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\078640c57c3fed308d1b7d2c6a6a1918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a7b196ecf6788031abdec9459ddc7934\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a7b196ecf6788031abdec9459ddc7934\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0bf6b2421bedb42c4ea9e94f9ee547b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0bf6b2421bedb42c4ea9e94f9ee547b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\61abc7d77f3e2e0624f022abe0399a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\61abc7d77f3e2e0624f022abe0399a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a3d72c2e5b38c237e2987a7c9db44795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a3d72c2e5b38c237e2987a7c9db44795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\00ec2159bc20c962348a9aa35bc96274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\00ec2159bc20c962348a9aa35bc96274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\359fb607b04cac28f84e2aa316f1e2e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\359fb607b04cac28f84e2aa316f1e2e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\353883a4d84d60b00f20af17ad075420\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\353883a4d84d60b00f20af17ad075420\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\826df14765c5c11ff1f91bea44138220\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\826df14765c5c11ff1f91bea44138220\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0c8b44b8e91591bfd8e3bbb7b7f89af6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0c8b44b8e91591bfd8e3bbb7b7f89af6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0204af0089d826c2eb473b6ba0e650ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abhishek\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0204af0089d826c2eb473b6ba0e650ad\AndroidManifest.xml:20:5-44
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-		ADDED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		ADDED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\internshala\Echo\Echo\app\src\main\AndroidManifest.xml

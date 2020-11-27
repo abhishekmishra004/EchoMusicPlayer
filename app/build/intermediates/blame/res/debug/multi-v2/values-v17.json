@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\internshala\\Echo\\Echo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "F:\\internshala\\Echo\\Echo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Abhisekh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5d08ebbe700605680f8751bbaf442e02\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\Abhishek\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1bc8fdd0e14580ab697b669d98b9cb4e\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

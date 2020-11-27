@@ -86,9 +86,20 @@ class SongPlayingFragment : Fragment() {
         var UpdateSongTime = object : Runnable {
             override fun run() {
                 val getCurrent = mediaPlayer?.getCurrentPosition()
-                startTimeText!!.text = String.format("%d: %d",
+                var min = ""
+                var sec = ""
+                if (TimeUnit.MILLISECONDS.toMinutes(getCurrent?.toLong()!!).toString().length == 1)
+                    min = "0" + TimeUnit.MILLISECONDS.toMinutes(getCurrent?.toLong()!!).toString()
+                else
+                    min = TimeUnit.MILLISECONDS.toMinutes(getCurrent?.toLong()!!).toString()
+                if(( TimeUnit.MILLISECONDS.toSeconds(getCurrent?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(getCurrent.toLong()))).toString().length == 1)
+                    sec = "0"+ (TimeUnit.MILLISECONDS.toSeconds(getCurrent?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(getCurrent.toLong()))).toString()
+                else
+                    sec = (TimeUnit.MILLISECONDS.toSeconds(getCurrent?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(getCurrent.toLong()))).toString()
+                startTimeText!!.text = min + ":" + sec
+                /*startTimeText!!.text = String.format("%d: %d",
                         TimeUnit.MILLISECONDS.toMinutes(getCurrent?.toLong()!!),
-                        TimeUnit.MILLISECONDS.toSeconds(getCurrent?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(getCurrent.toLong())))
+                        TimeUnit.MILLISECONDS.toSeconds(getCurrent?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(getCurrent.toLong())))*/
                 seekbar?.setProgress(getCurrent.toInt())
 
                 Handler().postDelayed(this, 1000)
@@ -397,14 +408,36 @@ class SongPlayingFragment : Fragment() {
             val finalTime = mediaPlayer.duration
             val startTime = mediaPlayer.currentPosition
             seekbar?.setMax(finalTime)
-            startTimeText?.setText(String.format("%d: %d",
+
+            var min = ""
+            var sec = ""
+            if (TimeUnit.MILLISECONDS.toMinutes(startTime.toLong()).toString().length == 1)
+                min = "0" + TimeUnit.MILLISECONDS.toMinutes(startTime.toLong()).toString()
+            else
+                min = TimeUnit.MILLISECONDS.toMinutes(startTime?.toLong()!!).toString()
+            if(( TimeUnit.MILLISECONDS.toSeconds(startTime?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(startTime.toLong()))).toString().length == 1)
+                sec = "0"+ (TimeUnit.MILLISECONDS.toSeconds(startTime?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(startTime.toLong()))).toString()
+            else
+                sec = (TimeUnit.MILLISECONDS.toSeconds(startTime?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(startTime.toLong()))).toString()
+            startTimeText!!.text = min + ":" + sec
+
+            if (TimeUnit.MILLISECONDS.toMinutes(finalTime.toLong()).toString().length == 1)
+                min = "0" + TimeUnit.MILLISECONDS.toMinutes(finalTime.toLong()).toString()
+            else
+                min = TimeUnit.MILLISECONDS.toMinutes(finalTime?.toLong()!!).toString()
+            if(( TimeUnit.MILLISECONDS.toSeconds(finalTime?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(finalTime.toLong()))).toString().length == 1)
+                sec = "0"+ (TimeUnit.MILLISECONDS.toSeconds(finalTime?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(finalTime.toLong()))).toString()
+            else
+                sec = (TimeUnit.MILLISECONDS.toSeconds(finalTime?.toLong()!!) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(finalTime.toLong()))).toString()
+            endTimeText!!.text  = min+":"+sec
+            /*startTimeText?.setText(String.format("%d: %d",
                     TimeUnit.MILLISECONDS.toMinutes(startTime.toLong()),
                     TimeUnit.MILLISECONDS.toSeconds(startTime.toLong()) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(startTime.toLong())))
-            )
-            endTimeText?.setText(String.format("%d: %d",
+            )*/
+            /*endTimeText?.setText(String.format("%d: %d",
                     TimeUnit.MILLISECONDS.toMinutes(finalTime.toLong()),
                     TimeUnit.MILLISECONDS.toSeconds(finalTime.toLong()) - TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(finalTime.toLong())))
-            )
+            )*/
             seekbar?.setProgress(startTime)
             Handler().postDelayed(UpdateSongTime, 1000)
         }
